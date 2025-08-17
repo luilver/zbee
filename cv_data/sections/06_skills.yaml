@@ -1,41 +1,18 @@
 skills:
   technical_skills:
     languages_frameworks:
-      - Java
-      - Python
-      - Django
-      - .NET
-      - Ruby
-      - Rails
-      - Go
-      - Javascript
-      - React
-      - Vue
+      Java, Python, Django, .NET, Ruby, Rails, Go, Javascript, React, Vue
     deployment_cicd:
-      - Docker
-      - Kubernetes
-      - Jenkins
-      - Terraform
-      - Git
+      Docker, Kubernetes, Jenkins, Terraform, Git
     db_warehousing:
-      - BigQuery
-      - PostgreSQL
-      - MySQL
-      - ElasticSearch
+      BigQuery, PostgreSQL, MySQL, ElasticSearch
     messaging_events:
-      - Kafka
-      - RabbitMQ
+      Kafka, RabbitMQ
     orm_db_apis:
-      - SQLAlchemy
-      - ActiveModel
-      - EntityFramework
+      SQLAlchemy, ActiveModel, EntityFramework
     mobile:
-      - Xamarin.Forms
-      - React-Native
+      Xamarin.Forms, React-Native
     testing_suites:
-      - JUnit
-      - Pytest
-      - Rspec
+      JUnit, Pytest, Rspec
     cloud_services:
-      - AWS (Cognito, EKS, Lambda)
-      - GCP (BigQuery, Cloud Storage)
+      AWS (Cognito, EKS, Lambda), GCP (BigQuery, Cloud Storage)
