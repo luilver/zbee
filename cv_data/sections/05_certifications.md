@@ -1,5 +1,19 @@
 # Certifications
 
-- **Google Cloud Certified** - Professional Architect - 2025
-- **Scrum Alliance Certified** - Scrum Master - 2024
-- **Segurmatica** - CySA Cyber Security Analyst - 2020
+`2025`
+**Professional Architect** - Google Cloud Skills Boost
+
+`2024`
+**Scrum Master** - Scrum Alliance
+
+`2016`
+**Advanced English for Business** - Penn University, U.S
+
+`2010`
+**NIIT Level V: Linux Certified Network Administrator** - NIIT, India
+
+`2009`
+**Microsoft Certified Solutions Developer** - Microsoft Latam, U.S
+
+`2008`
+**CySA Cyber Security Analist** - Segurmatica 

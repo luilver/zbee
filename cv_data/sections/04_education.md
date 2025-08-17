@@ -1,4 +1,3 @@
 # Education
 
-B.S. in Computer Science  
-University of Havana — 2008
+B.S. in Computer Science University of Havana — 2008
