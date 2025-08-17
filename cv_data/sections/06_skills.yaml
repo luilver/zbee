@@ -1,7 +1,9 @@
 skills:
   technical_skills:
-    languages_frameworks:
-      Java, Python, Django, .NET, Ruby, Rails, Go, Javascript, React, Vue
+    languages:
+      C#, Python, Ruby, Go, Javascript
+    frameworks:
+      Django, .NET, Rails, React, Vue
     deployment_cicd:
       Docker, Kubernetes, Jenkins, Terraform, Git
     db_warehousing:
