@@ -37,4 +37,5 @@ skills:
       - Pytest
       - Rspec
     cloud_services:
+      - AWS (Cognito, EKS, Lambda)
       - GCP (BigQuery, Cloud Storage)
