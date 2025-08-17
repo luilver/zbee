@@ -5,7 +5,7 @@ Data Enhancement team - Lead
 
 - Architected scalable data platforms, including data lakes and real-time processing systems, to
 support analytics and AI/ML initiatives, reducing processing times by 33%.
-- Designed and implemented cloud-native architectures on AWS and Azure, leveraging Kubernetes
+- Designed and implemented cloud-native architectures on AWS and GCP, leveraging Kubernetes
 for orchestration and Spark for distributed computing.
 - Integrated machine learning frameworks (TensorFlow, PyTorch) into production, automating
 model serving and monitoring with MLflow and custom MLOps pipelines.

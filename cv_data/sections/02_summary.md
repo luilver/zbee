@@ -5,7 +5,7 @@ AI and data platforms to enable analytics and machine learning workloads. Profic
 in building cloud-native architectures and automating MLOps pipelines to support data-
 driven decision-making. Passionate about fostering innovation and collaboration in cross-
 functional teams.
-- Expert in Python and cloud platforms (AWS, Azure), delivering secure, high-
+- Expert in Python and cloud platforms (AWS, GCP), delivering secure, high-
 performance systems for data ingestion, storage, and model lifecycle management.
 - Skilled in MLOps practices, integrating tools like TensorFlow, MLflow, and Kubernetes
 to ensure scalability and reliability.
