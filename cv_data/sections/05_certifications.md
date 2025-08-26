@@ -1,13 +1,13 @@
 # Certifications
 
-**Professional Architect** - Google Cloud Skills Boost - `2025`
+`2025` **Professional Architect** - Google Cloud Skills Boost
 
-**Scrum Master** - Scrum Alliance - `2024`
+`2024` **Scrum Master** - Scrum Alliance
 
-**Advanced English for Business** - Penn University, U.S - `2016`
+`2016` **Advanced English for Business** - Penn University, U.S
 
-**NIIT Level V: Linux Certified Network Administrator** - NIIT, India - `2010`
+`2010` **NIIT Level V: Linux Certified Network Administrator** - NIIT, India
 
-**Microsoft Certified Solutions Developer** - Microsoft Latam, U.S - `2009`
+`2009` **Microsoft Certified Solutions Developer** - Microsoft Latam, U.S
 
-**CySA Cyber Security Analist** - Segurmatica - `2008`
+`2008` **CySA Cyber Security Analist** - Segurmatica 
