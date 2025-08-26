@@ -5,6 +5,7 @@ import glob
 from lib.tex_to_pdf import tex_to_pdf
 from lib.yaml_to_tex import yaml_to_tex
 from lib.mkdocs_to_tex import markdown_to_tex  
+from lib.text_to_tex import text_to_tex
 from lib.latex_template import create_latex_document
 from lib.format_tex import format_tex
 
@@ -37,15 +38,17 @@ def process_folder_content_to_tex(folder="cv_data/sections"):
         try:
             if file_ext == '.yaml':
                 content = yaml_to_tex(file_path)
-
-            elif file_ext == '.md' or file_ext == '.txt':
-                # Procesar .txt como si fuera markdown
+                
+            elif file_ext == '.md':
                 content = markdown_to_tex(file_path)
-
+                
+            elif file_ext == '.txt':
+                content = text_to_tex(file_path)
+                
             elif file_ext == '.tex':
                 with open(file_path, 'r', encoding='utf-8') as f:
                     content = f.read()
-
+                    
             else:
                 print(f"  ⚠️  Unsupported file type: {file_ext}")
                 continue
