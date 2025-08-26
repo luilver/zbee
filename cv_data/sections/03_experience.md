@@ -9,8 +9,6 @@ support analytics and AI/ML initiatives, reducing processing times by 33%.
 for orchestration and Spark for distributed computing.
 - Integrated machine learning frameworks (TensorFlow, PyTorch) into production, automating
 model serving and monitoring with MLflow and custom MLOps pipelines.
-- Collaborated with data science teams to build feature stores and experimentation platforms,
-enhancing model deployment efficiency by 25%.
 - Established data governance practices, ensuring compliance with GDPR and HIPAA for secure
 data handling.
 - Mentored a team of 5 engineers, fostering technical excellence and driving adoption of best
@@ -42,8 +40,6 @@ scripts with robust retry logic and connection pooling.
 Sole developer, principal solution architect of Ucar mobile applications and APIs
 
 - UcarOK: Java backend and VUEjs frontend.
-- UcarOK Android App Xamarin.Android app with custom design.
-- UcarOK iOS App. UcarMobile, Xamarin.iOS app with custom design.
+- UcarOK Android and iOS Apps: Xamarin.Android app with custom design.
 - UcarMobile: Java backend and VUEjs frontend.
-- UcarMobile Android App. Xamarin.Android app with custom design.
-- UcarMobile iOS App Xamarin.iOS app with custom design.
+- UcarMobile Android and iOS Apps: Xamarin.Android app with custom design.

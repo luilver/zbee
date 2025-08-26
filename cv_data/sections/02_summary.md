@@ -10,6 +10,3 @@ teams.
  systems for data ingestion, storage, and model lifecycle management.
 - Skilled in MLOps practices, integrating tools like TensorFlow, MLflow, and Kubernetes
 to ensure scalability and reliability.
-- Strong collaborator with a track record of mentoring engineers and aligning technical
-solutions with business goals, including compliance with GDPR standards.
-
