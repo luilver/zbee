@@ -41,9 +41,9 @@ scripts with robust retry logic and connection pooling.
 ## Full Stack .NET , PChomes Solutions, Austin, TX, Jan 2013 - Dec 2020
 Sole developer in charge of Ucar application
 
-- UcarOK: J# .NET core backend and VUEjs frontend.
+- UcarOK: Java backend and VUEjs frontend.
 - UcarOK Android App Xamarin.Android app with custom design.
 - UcarOK iOS App. UcarMobile, Xamarin.iOS app with custom design,
-- UcarMobile: J# .NET core backend and VUEjs frontend.
+- UcarMobile: Java backend and VUEjs frontend.
 - UcarMobile Android App. Xamarin.Android app with custom design,
 - UcarMobile iOS App Xamarin.iOS app with custom design.
