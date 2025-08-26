@@ -38,12 +38,12 @@ performance and reduced costs by 10%.
 - Used SQLAlchemy for seamless interactions with PostgreSQL and BigQuery via Python
 scripts with robust retry logic and connection pooling.
 
-## Full Stack .NET , PChomes Solutions, Austin, TX, Jan 2013 - Dec 2020
-Sole developer in charge of Ucar application
+## Full Stack Developer , PChomes Solutions, Austin, TX, Jan 2013 - Dec 2020
+Sole developer, principal solution architect of Ucar mobile applications and APIs
 
 - UcarOK: Java backend and VUEjs frontend.
 - UcarOK Android App Xamarin.Android app with custom design.
-- UcarOK iOS App. UcarMobile, Xamarin.iOS app with custom design,
+- UcarOK iOS App. UcarMobile, Xamarin.iOS app with custom design.
 - UcarMobile: Java backend and VUEjs frontend.
-- UcarMobile Android App. Xamarin.Android app with custom design,
+- UcarMobile Android App. Xamarin.Android app with custom design.
 - UcarMobile iOS App Xamarin.iOS app with custom design.
