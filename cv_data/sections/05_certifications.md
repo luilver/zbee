@@ -11,3 +11,6 @@
 `2009` **Microsoft Certified Solutions Developer** - Microsoft Latam, U.S
 
 `2008` **CySA Cyber Security Analist** - Segurmatica 
+
+--
+dummy
